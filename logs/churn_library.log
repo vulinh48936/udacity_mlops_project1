@@ -1,0 +1,17 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - Saving image churn_distribution.png: SUCCESS
+root - INFO - Saving image customer_age_distribution.png: SUCCESS
+root - INFO - Saving image marital_status_distribution.png: SUCCESS
+root - INFO - Saving image total_trans_distribution.png: SUCCESS
+root - INFO - Saving image heatmap.png: SUCCESS
+root - INFO - Testing encoder_helper: SUCCESS
+root - INFO - Testing perform_feature_engineering: SUCCESS
+root - INFO - Saving lr logistic_model.pkl: SUCCESS
+root - INFO - Saving rf rfc_model.pkl: SUCCESS
+root - INFO - File roc_curve_result.png was found
+root - INFO - File rf_train_report.png was found
+root - INFO - File rf_test_report.png was found
+root - INFO - File lr_train_report.png was found
+root - INFO - File lr_test_report.png was found
+root - INFO - File feature_importances.png was found
